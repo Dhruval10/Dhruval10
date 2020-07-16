@@ -2,6 +2,8 @@
 
 Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/Dhruval10?tab=stars). You can read about my projects and find more context for many of the repositories hosted here by searching my [personal blog](http://dhruval.me/). 
 
+[![HitCount](http://hits.dwyl.com/dhruval10/dhruval10.svg)](http://hits.dwyl.com/dhruval10)
+
 <p align="center">
   <a href="http://dhruval.me/">
     <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
@@ -11,7 +13,7 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 ---
 ### 🌱 I’m currently learning
  
-Apacha Kafta, MongoDB and Deep learning
+Apache Kafka, MongoDB and Deep learning
 
 ### 📫 How to reach me:
 
@@ -22,8 +24,6 @@ hello@dhruval.me
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Dhruval10&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000&hide_border=true" alt="github stats"/ width="420">
 </p>
-
-[![HitCount](http://hits.dwyl.com/dhruval10/dhruval10.svg)](http://hits.dwyl.com/dhruval10)
 
 -->
 
