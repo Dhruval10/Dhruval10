@@ -2,7 +2,7 @@
 
 Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/Dhruval10?tab=stars). You can read about my projects and find more context for many of the repositories hosted here by searching my [personal blog](http://dhruval.me/). 
 
-[![HitCount](http://hits.dwyl.com/dhruval10/dhruval10.svg)](http://hits.dwyl.com/dhruval10/dhruval10)
+<!-- [![HitCount](http://hits.dwyl.com/dhruval10/dhruval10.svg)](http://hits.dwyl.com/dhruval10/dhruval10) -->
 
 <p align="center">
   <a href="http://dhruval.me/">
