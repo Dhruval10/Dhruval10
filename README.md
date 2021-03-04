@@ -5,7 +5,7 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 <!-- [![HitCount](http://hits.dwyl.com/dhruval10/dhruval10.svg)](http://hits.dwyl.com/dhruval10/dhruval10) -->
 
 <p align="center">
-  <a href="http://dhruval.me/">
+  <a href="https://dhruval.co/">
     <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
   </a>  
 </p>
@@ -17,7 +17,7 @@ Apache Kafka, MongoDB and Deep learning
 
 ### 📫 How to reach me:
 
-hello@dhruval.me
+contact@dhruval.tech
 
 ---
 <!--
