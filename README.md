@@ -44,15 +44,13 @@ contact@dhruval.tech
   <a href="mailto:shahdhruval10@gmail.com">
     <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/gmail.svg" alt="Gmail" style="margin:4px">
  </a>
--->
-
-  <a href="https://www.meetup.com/members/232835392/">
-    <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
-  </a>
-
- <a href="https://www.youtube.com/channel/UC0usPlYbwwXBPejtcFZVUvQ/playlists">
+  <a href="https://www.youtube.com/channel/UC0usPlYbwwXBPejtcFZVUvQ/playlists">
     <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
   </a>
+-->
+  <a href="https://www.meetup.com/members/232835392/">
+    <img src="https://github.com/Dhruval10/Dhruval10/blob/master/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+  </a> 
 </p>
 
 <!--
