@@ -17,7 +17,7 @@ Apache Kafka, MongoDB and Deep learning
 
 ### 📫 How to reach me:
 
-contact@dhruval.tech
+contact@dhruval.co
 
 ---
 <!--
